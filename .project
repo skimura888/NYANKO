@@ -8,6 +8,9 @@
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
+				
+			kyamura
+			
 			</arguments>
 		</buildCommand>
 	</buildSpec>
